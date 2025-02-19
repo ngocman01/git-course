@@ -1,0 +1,7 @@
++) câu lệnh để cài đặt mail
+ .) mail cho toàn bộ máy là: git config --global user.email "ten_email"
+ .) mail cho từng repo là: git config user.emal "ten_email"
+
++) câu lệnh để cài đặt name
+ .) mail cho toàn bộ máy là: git config --global user.name "ten_user"
+ .) mail cho từng repo là: git config user.name "ten_user"
